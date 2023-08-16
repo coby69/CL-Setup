@@ -1,8 +1,8 @@
 // Made by Coby and only Coby (thanks Kali for the read DWORD function)
-// This version was made on 07/03/2023 (DD/MM/YYYY).
+// This version was made on 17/08/2023 (DD/MM/YYYY).
 // This is an open-source project and any and all code can be modified at any point in time.
 
-// Copyright 2023 AppleCheats.cc
+// Copyright 2023 CheatLoverz.store
 //
 // This code is released under the GNU General Public License (GPL).
 // See https://www.gnu.org/licenses/gpl-3.0.txt for more information.
