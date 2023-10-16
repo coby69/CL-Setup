@@ -99,10 +99,7 @@ int main()
     Sleep(100);
     vcThread.join();
 
-    while (true)
-    {
-        // Hang the application
-        SetConsoleTitleA("Checking completed!");
-        Sleep(1);
-    }
+    // Hang the application
+    SetConsoleTitleA("Checking completed!");
+    Sleep(-1);
 }
